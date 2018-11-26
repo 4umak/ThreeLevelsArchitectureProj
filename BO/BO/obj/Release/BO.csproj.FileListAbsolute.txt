@@ -1,0 +1,6 @@
+D:\веб застос\FinalProjects\ThreeLevelsApplication\BO\BO\bin\Release\BO.dll
+D:\веб застос\FinalProjects\ThreeLevelsApplication\BO\BO\bin\Release\BO.pdb
+D:\веб застос\FinalProjects\ThreeLevelsApplication\BO\BO\obj\Release\BO.csprojAssemblyReference.cache
+D:\веб застос\FinalProjects\ThreeLevelsApplication\BO\BO\obj\Release\BO.csproj.CoreCompileInputs.cache
+D:\веб застос\FinalProjects\ThreeLevelsApplication\BO\BO\obj\Release\BO.dll
+D:\веб застос\FinalProjects\ThreeLevelsApplication\BO\BO\obj\Release\BO.pdb

@@ -1,0 +1,8 @@
+D:\веб застос\FinalProjects\ThreeLevelsApplication\BaseDAO\BaseDAO\bin\Release\BaseDAO.dll
+D:\веб застос\FinalProjects\ThreeLevelsApplication\BaseDAO\BaseDAO\bin\Release\BaseDAO.pdb
+D:\веб застос\FinalProjects\ThreeLevelsApplication\BaseDAO\BaseDAO\bin\Release\BO.dll
+D:\веб застос\FinalProjects\ThreeLevelsApplication\BaseDAO\BaseDAO\bin\Release\BO.pdb
+D:\веб застос\FinalProjects\ThreeLevelsApplication\BaseDAO\BaseDAO\obj\Release\DAL.csproj.CoreCompileInputs.cache
+D:\веб застос\FinalProjects\ThreeLevelsApplication\BaseDAO\BaseDAO\obj\Release\DAL.csproj.CopyComplete
+D:\веб застос\FinalProjects\ThreeLevelsApplication\BaseDAO\BaseDAO\obj\Release\BaseDAO.dll
+D:\веб застос\FinalProjects\ThreeLevelsApplication\BaseDAO\BaseDAO\obj\Release\BaseDAO.pdb

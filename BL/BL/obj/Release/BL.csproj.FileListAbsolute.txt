@@ -1,0 +1,11 @@
+D:\веб застос\FinalProjects\ThreeLevelsApplication\BL\BL\bin\Release\BL.dll
+D:\веб застос\FinalProjects\ThreeLevelsApplication\BL\BL\bin\Release\BL.pdb
+D:\веб застос\FinalProjects\ThreeLevelsApplication\BL\BL\bin\Release\BaseDAO.dll
+D:\веб застос\FinalProjects\ThreeLevelsApplication\BL\BL\bin\Release\BO.dll
+D:\веб застос\FinalProjects\ThreeLevelsApplication\BL\BL\bin\Release\BaseDAO.pdb
+D:\веб застос\FinalProjects\ThreeLevelsApplication\BL\BL\bin\Release\BO.pdb
+D:\веб застос\FinalProjects\ThreeLevelsApplication\BL\BL\obj\Release\BL.csproj.CoreCompileInputs.cache
+D:\веб застос\FinalProjects\ThreeLevelsApplication\BL\BL\obj\Release\BL.csproj.CopyComplete
+D:\веб застос\FinalProjects\ThreeLevelsApplication\BL\BL\obj\Release\BL.dll
+D:\веб застос\FinalProjects\ThreeLevelsApplication\BL\BL\obj\Release\BL.pdb
+D:\веб застос\FinalProjects\ThreeLevelsApplication\BL\BL\obj\Release\BL.csprojAssemblyReference.cache
